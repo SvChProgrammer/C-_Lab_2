@@ -1,4 +1,4 @@
-﻿показывает вторую цифру этого числа.*/
+/*показывает вторую цифру этого числа.*/
 Console.WriteLine("Задача  10");
 Console.WriteLine("Введите число K ");
 int numberk = int.Parse(Console.ReadLine());
